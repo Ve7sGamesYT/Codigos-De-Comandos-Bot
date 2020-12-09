@@ -1,0 +1,7 @@
+Comando:
+
+$deletecommand
+$nomention
+$giveRole[$mentioned[1];$mentionedRoles[1]]
+$description[**📓 · Cargo adicionado**]
+$onlyAdmin[**Você não tem permissão para usar esse comando**]
