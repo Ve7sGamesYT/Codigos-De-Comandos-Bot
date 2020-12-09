@@ -1,0 +1,8 @@
+Comando:
+
+$nomention
+$useChannel[$getServerVar[Sugestao]]
+$title[Suggestion]
+$description[$message]
+$footer[By $username]
+$color[00ff00]
