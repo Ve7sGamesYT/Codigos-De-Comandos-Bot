@@ -1,0 +1,11 @@
+Comando:
+
+$title[**🖼Avatar do usuário**]
+$nomention
+$description[
+<@$mentioned[1]> **Que bela foto!!**]
+
+$allowMention
+$image[$userAvatar[$mentioned[1]]]
+$color[#FFFAFA]
+$footer[Pedido por $username]
