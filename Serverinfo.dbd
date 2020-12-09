@@ -1,0 +1,17 @@
+Comando :
+
+$nomention
+$title[Serverinfo ]
+$description[
+
+$serverInfo[**Server Name:** {name}
+**ID:** {ID}
+**Região:** {region}
+**Qua tidade De Canais:** $channelCount
+**Dono Do Servidor:** {owner}
+**Membros:** {memberCount}
+**Quantidade De Cargos:** $roleCount
+**Verificação:** {verificationLvl}
+]
+$footer[Obrigado Por Me Utilizar ]
+$color[00fffc]
