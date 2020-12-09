@@ -1,0 +1,8 @@
+Comando:
+
+$nomention
+$color[#00ffff]
+$title[Quantidade De Membros]
+$footer[Obrigado]
+
+$description [Membros Do Servidor : $membersCount 
