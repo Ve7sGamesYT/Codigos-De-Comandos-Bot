@@ -1,0 +1,8 @@
+Comando :
+
+$nomention
+$title[Criar Canal ]
+$description[Canal Criado Com Suseso ]
+$footer[Obrigado ]
+$color[0dff00]
+$createChannel[$message;text]
